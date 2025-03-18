@@ -37,3 +37,7 @@ siRNA sequences and their normalized inhibitory activities used for training or 
 Dataset contains of 2431 siRNA sequences and their normalized inhibitory activity
 The inhibitory activity is obtained by scaling linearly the averaged raw inhibitory activities such that the positive control becomes 0.900 normalized inhibitory activity and the negative control becomes 0.354 normalized inhibitory activity, latter such to ensure that no negative activity exists.
 
+
+katoh.xls
+Katoh T, Suzuki T. Specific residues at every third position of siRNA shape its efficient RNAi activity. Nucleic Acids Res. 2007;35(4):e27. doi: 10.1093/nar/gkl1120. Epub 2007 Jan 26. PMID: 17259216; PMCID: PMC1851635.
+
