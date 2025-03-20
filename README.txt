@@ -41,3 +41,11 @@ The inhibitory activity is obtained by scaling linearly the averaged raw inhibit
 katoh.xls
 Katoh T, Suzuki T. Specific residues at every third position of siRNA shape its efficient RNAi activity. Nucleic Acids Res. 2007;35(4):e27. doi: 10.1093/nar/gkl1120. Epub 2007 Jan 26. PMID: 17259216; PMCID: PMC1851635.
 
+
+siRecords.xls
+
+
+shabalina.xlsx
+Shabalina, S.A., Spiridonov, A.N. & Ogurtsov, A.Y. Computational models with thermodynamic and composition features improve siRNA design. BMC Bioinformatics 7, 65 (2006). https://doi.org/10.1186/1471-2105-7-65
+
+
