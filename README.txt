@@ -48,4 +48,12 @@ siRecords.xls
 shabalina.xlsx
 Shabalina, S.A., Spiridonov, A.N. & Ogurtsov, A.Y. Computational models with thermodynamic and composition features improve siRNA design. BMC Bioinformatics 7, 65 (2006). https://doi.org/10.1186/1471-2105-7-65
 
+saetrom.xls
+Pål Sætrom, Ola Snøve. A comparison of siRNA efficacy predictors. Biochemical and Biophysical Research Communications Volume 321, Issue 1,
+2004, Pages 247-253. https://doi.org/10.1016/j.bbrc.2004.06.116.
 
+ichihara.xls
+Thermodynamic instability of siRNA duplex is a prerequisite for dependable prediction of siRNA activities
+M. Ichihara, Y. Murakumo, A. Masuda, T. Matsuura, N. Asai, M. Jijiwa, et al.
+Nucleic Acids Res 2007 Vol. 35 Issue 18 Pages e123
+Accession Number: 17884914 PMCID: PMC2094068 DOI: 10.1093/nar/gkm699
