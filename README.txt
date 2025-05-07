@@ -57,3 +57,11 @@ Thermodynamic instability of siRNA duplex is a prerequisite for dependable predi
 M. Ichihara, Y. Murakumo, A. Masuda, T. Matsuura, N. Asai, M. Jijiwa, et al.
 Nucleic Acids Res 2007 Vol. 35 Issue 18 Pages e123
 Accession Number: 17884914 PMCID: PMC2094068 DOI: 10.1093/nar/gkm699
+
+shmushkovich.xlsx
+A panel of 356 sdRNAs targeting 17 genes. Sequences in the dataset are mRNA targets of 50-nt length, 5'->3'.
+5' Region - siRNA Targeting Region - 3' Region, 15-20-15 nt.
+Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs
+T. Shmushkovich, K. R. Monopoli, D. Homsy, D. Leyfer, M. Betancur-Boissel, A. Khvorova, et al.
+Nucleic Acids Research 2018 Vol. 46 Issue 20 Pages 10905-10916. DOI: 10.1093/nar/gky745
+
